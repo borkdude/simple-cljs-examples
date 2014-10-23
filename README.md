@@ -21,7 +21,7 @@ The examples I collected so far (with the help of the people on the [ClojureScri
 
 ## Vanilla ClojureScript (without React)
 
-[TodoMVC](https://github.com/dfuenzalida/todo-cljs)
+[TodoMVC](https://github.com/dfuenzalida/todo-cljs) - port of [vanilla JavaScript TodoMVC](http://todomvc.com/examples/vanillajs/)
 
 ## React based examples
 
