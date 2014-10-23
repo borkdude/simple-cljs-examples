@@ -24,8 +24,14 @@ The examples I collected so far (with the help of the people on the [ClojureScri
 
 ## Vanilla ClojureScript 
 
-[TodoMVC](https://github.com/dfuenzalida/todo-cljs) - port of [vanilla JavaScript TodoMVC](http://todomvc.com/examples/vanillajs/)
+* [TodoMVC](https://github.com/dfuenzalida/todo-cljs) - port of [vanilla JavaScript TodoMVC](http://todomvc.com/examples/vanillajs/)
+* [json-html](https://github.com/yogthos/json-html) - JSON/EDN to HTML formatter
+* [Tetris](https://github.com/yogthos/Clojure-Tetris) - Clojure/Script Tetris
+
 
 ## React based
 
-[QSnake]( https://github.com/piranha/qsnake) - Made with [Quiescent](https://github.com/levand/quiescent) 
+* [TodoMVC](https://github.com/reagent-project/reagent-core/tree/master/examples/todomvc) - Reagent port of TodoMVC
+* [QSnake]( https://github.com/piranha/qsnake) - Made with [Quiescent](https://github.com/levand/quiescent)
+* [Mario](https://github.com/jamesmacaulay/zelkova/tree/master/examples/mario) - platformer example
+
