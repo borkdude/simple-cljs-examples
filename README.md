@@ -19,10 +19,10 @@ Preferably the examples meet the following requirements:
 
 The examples I collected so far (with the help of the people on the [ClojureScript](https://groups.google.com/forum/#!topic/clojurescript/84nnVJ2OLvU) mailing list):
 
-## Vanilla ClojureScript (without React)
+## Vanilla ClojureScript 
 
 [TodoMVC](https://github.com/dfuenzalida/todo-cljs) - port of [vanilla JavaScript TodoMVC](http://todomvc.com/examples/vanillajs/)
 
-## React based examples
+## React based
 
 [QSnake]( https://github.com/piranha/qsnake) - Made with [Quiescent](https://github.com/levand/quiescent) 
