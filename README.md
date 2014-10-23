@@ -16,6 +16,7 @@ Preferably the examples meet the following requirements:
   * `open index.html`
 * not dependent on too many third party libraries
 * well maintained 
+  Examples that don't work with a recent version of `lein cljsbuild` and ClojureScript will be notified or removed.
 
 The examples I collected so far (with the help of the people on the [ClojureScript](https://groups.google.com/forum/#!topic/clojurescript/84nnVJ2OLvU) mailing list):
 
