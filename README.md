@@ -27,5 +27,5 @@ The examples I collected so far (with the help of the people on the [ClojureScri
 [TodoMVC](https://github.com/dfuenzalida/todo-cljs) - port of [vanilla JavaScript TodoMVC](http://todomvc.com/examples/vanillajs/)
 
 ## React based
-
-[QSnake]( https://github.com/piranha/qsnake) - Made with [Quiescent](https://github.com/levand/quiescent) 
+[T3TR0S](https://github.com/shaunlebron/t3tr0s-slides) - Tutorial slides about how to create Tetris in ClojureScript + [Om](https://github.com/swannodette/om)
+[QSnake](https://github.com/piranha/qsnake) - Made with [Quiescent](https://github.com/levand/quiescent) 
