@@ -33,5 +33,3 @@ The examples I collected so far (with the help of the people on the [ClojureScri
 
 * [TodoMVC](https://github.com/reagent-project/reagent-core/tree/master/examples/todomvc) - Reagent port of TodoMVC
 * [QSnake]( https://github.com/piranha/qsnake) - Made with [Quiescent](https://github.com/levand/quiescent)
-* [Mario](https://github.com/jamesmacaulay/zelkova/tree/master/examples/mario) - platformer example
-
