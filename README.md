@@ -15,6 +15,7 @@ Preferably the examples meet the following requirements:
   For example: 
   * `lein cljsbuild once`
   * `open index.html`
+  
 * not dependent on too many third party libraries
 * well maintained 
 
@@ -28,4 +29,5 @@ The examples I collected so far (with the help of the people on the [ClojureScri
 
 ## React based
 [T3TR0S](https://github.com/shaunlebron/t3tr0s-slides) - Tutorial slides about how to create Tetris in ClojureScript + [Om](https://github.com/swannodette/om)
+
 [QSnake](https://github.com/piranha/qsnake) - Made with [Quiescent](https://github.com/levand/quiescent) 
